@@ -87,13 +87,13 @@ namespace EncryptionMicroservice.Views
         protected global::System.Web.UI.WebControls.Button AddButton;
 
         /// <summary>
-        /// LookupIdTextBox0 control.
+        /// EditIdTextBox control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox LookupIdTextBox0;
+        protected global::System.Web.UI.WebControls.TextBox EditIdTextBox;
 
         /// <summary>
         /// EditKeyTextBox control.
